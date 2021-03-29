@@ -1,0 +1,201 @@
+[
+    {
+        "id":1,"type":"tree",
+        "description":"lakukanlah maka hidupmu akan bahagia",
+        "done":false,"available_level":1,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"buy apple tree","times":1,"finish":0},
+            {"activity":"harvest apple","times":4,"finish":0}
+        ]
+    },
+    {
+        "id":2,"type":"planting",
+        "description":"satu detik yang lalu lebih jauh dari pada 1 miliar\n tahun yang akan datang, maka persiapkan\n dirimu untuk masa yang akan datang",
+        "done":false,"available_level":1,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":3,"type":"planting",
+        "description":"lemon mengandung vitamin x",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"harvest lemon","times":4,"finish":0}
+        ]
+    },
+    {
+        "id":4,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":5,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":6,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":7,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":8,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":9,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":10,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":11,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":12,"type":"planting",
+        "description":"",
+        "done":false,"available_level":3,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":13,"type":"planting",
+        "description":"",
+        "done":false,"available_level":4,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":14,"type":"planting",
+        "description":"",
+        "done":false,"available_level":4,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":15,"type":"planting",
+        "description":"",
+        "done":false,"available_level":4,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":16,"type":"planting",
+        "description":"",
+        "done":false,"available_level":4,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":17,"type":"planting",
+        "description":"",
+        "done":false,"available_level":4,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":18,"type":"planting",
+        "description":"",
+        "done":false,"available_level":5,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":19,"type":"planting",
+        "description":"",
+        "done":false,"available_level":5,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    },
+    {
+        "id":20,"type":"planting",
+        "description":"",
+        "done":false,"available_level":5,
+        "gift":{"money":270,"exp":10},
+        "project":[
+            {"activity":"plant wheat","times":3,"finish":0},
+            {"activity":"harvest wheat","times":3,"finish":0}
+        ]
+    }
+]

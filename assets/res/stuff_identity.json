@@ -1,0 +1,186 @@
+[
+    {
+        "name":"planting_slot",
+        "object_name": "planting_slot",
+        "type":"plant",
+        "max":[
+            [0,0],
+            [2,20],
+            [3,4],
+            [4,28]
+        ],
+        "price":20
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name":"apple",
+        "object_name": "apple_tree",
+        "type":"tree",
+        "harvest_time":120,
+        "add_exp":2,
+        "harvest_total":3,
+        "available_level":2,
+        "price":150
+    },
+    {
+        "name":"lemon",
+        "object_name": "lemon_tree",
+        "type":"tree",
+        "harvest_time":130,
+        "add_exp":4,
+        "harvest_total":4,
+        "available_level":3,
+        "price":200
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name":"barn",
+        "object_name": "barn",
+        "type":"building",
+        "available_level":5,
+        "price":20000
+    },
+    {
+        "name":"fertilizer_spreader",
+        "object_name": "fertilizer_spreader",
+        "type":"building",
+        "available_level":2,
+        "max":[
+            [0,0],
+            [2,1]
+        ],
+        "price":50
+    },
+
+
+
+
+
+    
+    {
+        "name":"home_1",
+        "object_name": "home_1",
+        "type":"main_object"
+    },
+    {
+        "name":"order_board",
+        "object_name": "order_board",
+        "type":"main_object"
+    },
+    {
+        "name":"sales_desk",
+        "object_name": "sales_desk",
+        "type":"main_object"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name":"forest_tree",
+        "object_name": "forest_tree",
+        "type":"other_"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name":"grinding_machine",
+        "object_name": "grinding_machine",
+        "type":"machine",
+        "available_level":2,
+        "max":[
+            [2,1],
+            [4,2],
+            [6,3]
+        ],
+        "price":1000
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name":"chicken",
+        "object_name":"chicken_area",
+        "type":"animal",
+        "the_food":[
+            {
+                "name":"wheat",
+                "count":3
+            }
+        ],
+        "produce_time":5,
+        "fertilizer_added":0.2,
+        "produce_total":3,
+        "produce_item":"egg",
+        "add_exp":6,
+        "available_level":2,
+        "max":[
+            [2,2],
+            [4,3],
+            [6,4]
+        ],
+        "price":250
+    }
+]

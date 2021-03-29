@@ -1,0 +1,16 @@
+[
+    {
+        "name":"wheat",
+        "harvest_time":120,
+        "available_level":1,
+        "add_exp":4,
+        "price":10
+    },
+    {
+        "name":"tomato",
+        "harvest_time":130,
+        "add_exp":6,
+        "available_level":3,
+        "price":20
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "text":"tanah milik bapak loe",
+        "available_level":0,
+        "price":0,
+        "object": [
+            {"object_name":"grass_1","coord":[1,2]}
+        ]
+    },
+    {
+        "text":"tanah milik \n pak samad",
+        "available_level":2,
+        "price":2000,
+        "object": [
+            {"object_name":"grass_1","coord":[1,2]}
+        ]
+    },
+    {
+        "text":"tanah milik \n pak umar",
+        "available_level":10,
+        "price":5000,
+        "object": [
+            {"object_name":"grass_1","coord":[1,2]}
+        ]
+    }
+]

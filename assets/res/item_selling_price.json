@@ -1,0 +1,45 @@
+[
+    {
+        "name":"apple",
+        "price": 5
+    },
+    {
+        "name":"lemon",
+        "price": 10
+    },
+    {
+        "name":"wheat",
+        "price": 12
+    },
+    {
+        "name":"tomato",
+        "price": 25
+    },
+    {
+        "name":"egg",
+        "price": 15
+    },
+    {
+        "name":"flour",
+        "price": 40
+    },
+    {
+        "name":"try_prefab_1",
+        "price": 50
+    },
+    {
+        "name":"nail",
+        "price": 50,
+        "gold":5
+    },
+    {
+        "name":"hammer",
+        "price": 50,
+        "gold":5
+    },
+    {
+        "name":"measuring_tape",
+        "price": 50,
+        "gold":5
+    }
+]
